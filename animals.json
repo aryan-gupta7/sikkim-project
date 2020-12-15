@@ -1,6 +1,7 @@
 {
     "animals": {
         "Red Panda": {
+            "sname":"red-panda",
             "Name": "Red Panda",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -12,6 +13,7 @@
             "Location":"/static/images/red-panda.jpg"
         },
         "Tibetian Wolf": {
+            "sname":"tibetian-wolf",
             "Name": "Tibetian Wolf",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -23,6 +25,7 @@
             "Location":"/static/images/tibetian wolf.jpg"
         },
         "Tibetian Fox": {
+            "sname":"tibetian-fox",
             "Name": "Tibetian Wolf",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -34,6 +37,7 @@
             "Location":"/static/images/tibetian fox.jpg"
         },
         "Hog Badger": {
+            "sname":"hog-badger",
             "Name": "Hog Badger",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -45,6 +49,7 @@
             "Location":"/static/images/hog badger.jpg"
         },
         "Binturong": {
+            "sname":"binturong",
             "Name": "Binturong",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -56,6 +61,7 @@
             "Location":"/static/images/binturong.jpg"
         },
         "Marbled Cat": {
+            "sname":"marbled-cat",
             "Name": "Marbled Cat",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -67,6 +73,7 @@
             "Location":"/static/images/marbled cat.jpg"
         },
         "Leopard Cat": {
+            "sname":"leopard-cat",
             "Name": "Leopard Cat",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -78,6 +85,7 @@
             "Location":"/static/images/leopard cat.jpg"
         },
         "Fishing Cat": {
+            "sname":"fishing-cat",
             "Name": "Fishing Cat",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -89,6 +97,7 @@
             "Location":"/static/images/fishing cat.jpg"
         },
         "Tibetian Wild Ass": {
+            "sname":"tibetian-wild-ass",
             "Name": "Tibetian Wild Ass",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -100,6 +109,7 @@
             "Location":"/static/images/tibetian wild ass.jpg"
         },
         "Himalayan Serow": {
+            "sname":"himalayan-serow",
             "Name": "Himalayan Serow",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -111,6 +121,7 @@
             "Location":"/static/images/himalayan serow.jpg"
         },
         "Bharal": {
+            "sname":"himalayan-serow",
             "Name": "Bharal",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -122,6 +133,7 @@
             "Location":"/static/images/bharal.jpg"
         },
         "Sikkim Vole": {
+            "sname":"sikkim-vole",
             "Name": "Sikkim Vole",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -133,6 +145,7 @@
             "Location":"/static/images/sikkim vole.jpg"
         },
         "Tibetian Antelope": {
+            "sname":"tibetian-antelope",
             "Name": "Tibetian Antelope",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -144,6 +157,7 @@
             "Location":"/static/images/tibetian antelope.jpg"
         },
         "Himalayan Marmot": {
+            "sname":"himalayan-marmot",
             "Name": "Himalayan Marmot",
             "Kingdom": "Animalia",
             "Phylum": "Chordata",
@@ -155,6 +169,7 @@
             "Location":"/static/images/himalayan marmot.jpg"
         },
         "Lammergerier Eagle": {
+            "sname":"lammergerier-eagle",
             "Name": "Lammergerier Eagle",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
@@ -166,6 +181,7 @@
             "Location":"/static/images/lammergerier eagle.jpg"
         },
         "Sikkim Snowcock": {
+            "sname":"sikkim-snowcock",
             "Name":"Sikkim Snowcock",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
@@ -177,6 +193,7 @@
             "Location":"/static/images/sikkim snowcock.jpg"
         },
         "Emerald Cuckoo": {
+            "sname":"emerald-cuckoo",
             "Name": "Emerald Cuckoo",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
@@ -188,6 +205,7 @@
             "Location":"/static/images/emerald cuckoo.jpg"
         },
         "Hodson's Frogmouth": {
+            "sname":"hodson's-frogmouth",
             "Name": "Hodson's Frogmouth",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
@@ -199,6 +217,7 @@
             "Location":"/static/images/hodson's frogmouth.jpg"
         },
         "Blue beareded Bee-Eater": {
+            "sname":"blue-beareded-bee-eater",
             "Name": "Blue beareded Bee-Eater",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
@@ -210,6 +229,7 @@
             "Location":"/static/images/Bluebereded bee-eater.jpg"
         },
         "Yellow backed Honeyguide": {
+            "sname":"yellow-backed-honeyguide",
             "Name": "Yellow backed Honeyguide",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
@@ -221,6 +241,7 @@
             "Location":"/static/images/Yellow backed honey guide.jpg"
         },
         "Fire Capped Tit": {
+            "sname":"fire-capped-tit",
             "Name": "Fire Capped Tit",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
@@ -232,6 +253,7 @@
             "Location":"/static/images/Fire-capped Tit.jpg"
         },
         "Sikkim Bay-Owl": {
+            "sname":"sikkim-bay-owl",
             "Name":"Sikkim Bay-Owl",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
@@ -243,6 +265,7 @@
             "Location":"/static/images/Sikkim Bay Owl.jpg"
         },
         "Imperial Pheasant": {
+            "sname":"imperial-pheasant",
             "Name": "Imperial Pheasant",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
@@ -254,6 +277,7 @@
             "Location":"/static/images/Imperial Pheasant.jpg"
         },
         "Snow Partiridge": {
+            "sname":"imperial-pheasant",
             "Name": "Snow Partiridge",
             "Kingdom":	"Animalia",
             "Phylum":	"Chordata",
