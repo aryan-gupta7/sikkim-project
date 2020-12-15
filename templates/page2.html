@@ -34,6 +34,7 @@
             <img src="{{ img_location }}" alt="">
             <div class="content">
                 <h2>{{ animal["Name"] }}</h2>
+                <a href="/animal_info/{{ animal['sname'] }}">More Information</a>
             </div>
         </div>
         {% endfor %}
