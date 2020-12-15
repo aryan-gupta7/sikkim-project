@@ -213,7 +213,7 @@
             "Order":	"Caprimulgiformes",
             "Family":	"Podargidae",
             "Genus":	"Batrachostomus",
-            "Biological Name": "Batrachostomus hodgsoni",
+            "Biological name": "Batrachostomus hodgsoni",
             "Location":"/static/images/hodson's frogmouth.jpg"
         },
         "Blue beareded Bee-Eater": {
@@ -225,7 +225,7 @@
             "Order":	"Coraciiformes",
             "Family":	"Meropidae",
             "Genus":	"Nyctyornis",
-            "Biological Name": "Nyctyornis athertoni",
+            "Biological name": "Nyctyornis athertoni",
             "Location":"/static/images/Bluebereded bee-eater.jpg"
         },
         "Yellow backed Honeyguide": {
@@ -261,7 +261,7 @@
             "Order":	"Strigiformes",
             "Family":	"Tytonidae",
             "Genus":	"Phodilus",
-            "Biological Name": "Phodilus badius",
+            "Biological name": "Phodilus badius",
             "Location":"/static/images/Sikkim Bay Owl.jpg"
         },
         "Imperial Pheasant": {
