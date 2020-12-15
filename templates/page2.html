@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIP - Science Project</title>
+    <link rel="stylesheet" href="/static/styles/page2.css">
+</head>
+
+<body>
+    <section>
+        <div class="content">
+            <h1>The lost species of sikkim</h1>
+            <p>Endangered Birds and Animals of Sikkim</p>
+            <img id="redpandapic" src="/static/images/redpanda.jpg" alt="">
+        </div>
+    </section>
+    <div class="body">
+        <p>The Birds and Animals of almost all regions of the world are Endangered. The Indian state Sikkim is well
+            known for its natural beauty but it is loosing that too because of human greeds. There are many species of
+            birds and animals which are only found in Sikkim and nearby regions which are a symbol of proud for Sikkim.
+            But shamefully, they are now also Endangered. One such example of endangered animal is Red Panda which is
+            also the State Animal of Sikkim. But now along with the honor of being the state animal its name is in the
+            list of Most Endangered animals of sikkim.</p>
+        <br>
+        <h1>Endangered Birds and Animals of Sikkim</h1>
+    </div>
+    <div class="container">
+        {% for animal in animals %}
+        <div class="card">
+            {% set animal = animals[animal] %}
+            {% set img_location = animal['Location'] %}
+            <img src="{{ img_location }}" alt="">
+            <div class="content">
+                <h2>{{ animal["Name"] }}</h2>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="body">
+        <p>These are some of the endangered species of Sikkim. Its is still in our hands to save these natural
+            beauties...</p>
+        </div>
+        <h1 class="links">
+            <a href="/intro">Back to Intro...</a>
+            <a href="/thanks_for_watching">Continue...</a>
+        </h1>
+</body>
+
+</html>

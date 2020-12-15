@@ -1,0 +1,217 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    background: #16384c;
+    /* background: #07252d; */
+    /* height: 200%; */
+}
+.heading
+{
+    /* margin: 50px auto; */
+    position: relative;
+    font-size: 2em;
+    letter-spacing: 10px;
+    color: #0e3842;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    /* -webkit-box-reflect: below 1px linear-gradient(transparent,#0008); */
+    /* line-height: 0.28em; */
+    outline: none;
+    /* animation: animate 5s linear infinite; */
+}
+.heading h1
+{
+    animation: animate 5s linear infinite;
+}
+@keyframes animate
+{
+    0%,18%,20%,50.1%,60%,65.1%,80%,90.1%,92%
+    {
+        color: #0e3742;
+        box-shadow: none;
+    }
+    18.1%,20.1%,30%,50%,60.1%,65%,80.1%,90%,92.1%,100%
+    {
+        color: #fff;
+        text-shadow: 0 0 10px #03bcf4,
+        0 0 20px #03bcf4,
+        0 0 40px #03bcf4,
+        0 0 80px #03bcf4,
+        0 0 160px #03bcf4;
+    }
+}
+.heading h2
+{
+    color: #0e4211;
+    animation: animate2 5s linear infinite;
+}
+@keyframes animate2
+{
+    0%,15%,23%,59.1%,61%,69.1%,83%,95.1%,99%
+    {
+        color: #0e4211;
+        box-shadow: none;
+    }
+    15.1%,23.1%,38%,60%,61.1%,65.3%,69%,83.1%,95%,98.9%,100%
+    {
+        color: #fff;
+        text-shadow: 0 0 10px #03f403,
+        0 0 20px #03f403,
+        0 0 40px #03f403,
+        0 0 80px #03f403,
+        0 0 160px #03f403;
+    }
+}
+.heading h3
+{
+    color: #420e1e;
+    animation: animate3 5s linear infinite;
+}
+@keyframes animate3
+{
+    0%,21.3%,23.3%,60.1%,68.1%,69.1%,83.3%,95.1%,99%
+    {
+        color: #420e19;
+        box-shadow: none;
+    }
+    15.1%,23.1%,38%,60%,61.1%,65.3%,69%,83.1%,95%,98.9%,100%
+    {
+        color: #fff;
+        text-shadow: 0 0 10px #f40303,
+        0 0 20px #f40303,
+        0 0 40px #f40303,
+        0 0 80px #f40303,
+        0 0 160px #f40303;
+    }
+}
+.h3
+{
+    color: #fff;
+    font-size: 3em;
+    text-align: center;
+    margin: 10px;
+}
+.body
+{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container
+{
+    position: relative;
+    /* width: 1100px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px;
+
+}
+.container .card
+{
+    position: relative;
+    max-width: 300px;
+    /* height: 250px; */
+    width: 300px;
+    background: #fff;
+    margin: 30px 10px;
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 5px 202px rgba(0,0,0,0.5);
+    transition: 0.3s ease-in-out;
+}
+.container .card:hover
+{
+    /* height: 350px; */
+    height: auto;
+    min-height: 200px;
+    width: 300px;
+}
+.container .card img
+{
+    position: relative;
+    width: 260px;
+    height: auto;
+    top: -60px;
+    left: 20px;
+    z-index: 1;
+    box-shadow: 0 5px 20px rgba(0,0,0,02);
+    border-radius: 4px;
+}
+.container .card img
+{
+    max-width: 100%;
+}
+.img
+{
+    max-width: 100%;
+    height: 260px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container .card .content
+{
+    position: relative;
+    margin-top: -140px;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    text-align: center;
+    color: #111;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+}
+.container .card:hover .content
+{
+    margin-bottom: 30px;
+    padding: 30px;
+    visibility: visible;
+    opacity: 1;
+    margin: -40px;
+    transition-delay: 0.3s;
+}
+.container .card:hover .content ul li
+{
+    list-style: none;
+}
+.container .card audio
+{
+    margin: 10px;
+    outline: none;
+}
+.buttons
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+.button h1
+{
+
+    margin: auto;
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+    color: #fff;
+    transition: 0.1s;
+}
+a:hover
+{
+    color: #03bcf4;
+    text-decoration: underline;
+}

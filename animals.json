@@ -1,0 +1,269 @@
+{
+    "animals": {
+        "Red Panda": {
+            "Name": "Red Panda",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Carnivora",
+            "Family": "Ailuridae",
+            "Genus": "Ailurus",
+            "Biological name": "Ailurus fulgens",
+            "Location":"/static/images/red-panda.jpg"
+        },
+        "Tibetian Wolf": {
+            "Name": "Tibetian Wolf",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Carnivora",
+            "Family": "Canidae",
+            "Genus": "Canis",
+            "Biological name": "Canis himalayensis",
+            "Location":"/static/images/tibetian wolf.jpg"
+        },
+        "Tibetian Fox": {
+            "Name": "Tibetian Wolf",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Carnivora",
+            "Family": "Canidae",
+            "Genus": "Vulpes",
+            "Biological name": "Vulpes ferrilata",
+            "Location":"/static/images/tibetian fox.jpg"
+        },
+        "Hog Badger": {
+            "Name": "Hog Badger",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Carnivora",
+            "Family": "Mustelidae",
+            "Genus": "Arctonyx",
+            "Biological name": "Arctonyx collaris",
+            "Location":"/static/images/hog badger.jpg"
+        },
+        "Binturong": {
+            "Name": "Binturong",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Carnivora",
+            "Family": "Viverridae",
+            "Genus": "Arctictis",
+            "Biological name": "Arctictis binturong",
+            "Location":"/static/images/binturong.jpg"
+        },
+        "Marbled Cat": {
+            "Name": "Marbled Cat",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Carnivora",
+            "Family": "Felidae",
+            "Genus": "Pardofelis",
+            "Biological name": "Pardofelis marmorata",
+            "Location":"/static/images/marbled cat.jpg"
+        },
+        "Leopard Cat": {
+            "Name": "Leopard Cat",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Carnivora",
+            "Family": "Felidae",
+            "Genus": "Prionailurus",
+            "Biological name": "Prionailurus bengalensis",
+            "Location":"/static/images/leopard cat.jpg"
+        },
+        "Fishing Cat": {
+            "Name": "Fishing Cat",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Carnivora",
+            "Family": "Felidae",
+            "Genus": "Prionailurus",
+            "Biological name": "Prionailurus viverrinus",
+            "Location":"/static/images/fishing cat.jpg"
+        },
+        "Tibetian Wild Ass": {
+            "Name": "Tibetian Wild Ass",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Perissodactyla",
+            "Family": "Equidae",
+            "Genus": "Equus",
+            "Biological name": "Equus kiang",
+            "Location":"/static/images/tibetian wild ass.jpg"
+        },
+        "Himalayan Serow": {
+            "Name": "Himalayan Serow",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Artiodactyla",
+            "Family": "Bovidae",
+            "Genus": "Capricornis",
+            "Biological Name": "Capricornis thar",
+            "Location":"/static/images/himalayan serow.jpg"
+        },
+        "Bharal": {
+            "Name": "Bharal",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Artiodactyla",
+            "Family": "Bovidae",
+            "Genus": "Pseudois",
+            "Biological name": "Pseudois nayaur",
+            "Location":"/static/images/bharal.jpg"
+        },
+        "Sikkim Vole": {
+            "Name": "Sikkim Vole",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Rodentia",
+            "Family": "Cricetidae",
+            "Genus": "Neodon",
+            "Biological name": "Neodon sikimensis",
+            "Location":"/static/images/sikkim vole.jpg"
+        },
+        "Tibetian Antelope": {
+            "Name": "Tibetian Antelope",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Artiodactyla",
+            "Family": "Bovidae",
+            "Genus": "Pantholops",
+            "Biological name": "Pantholops hodgsonii",
+            "Location":"/static/images/tibetian antelope.jpg"
+        },
+        "Himalayan Marmot": {
+            "Name": "Himalayan Marmot",
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Rodentia",
+            "Family": "Sciuridae",
+            "Genus": "Marmota",
+            "Biological name": "Marmota himalayana",
+            "Location":"/static/images/himalayan marmot.jpg"
+        },
+        "Lammergerier Eagle": {
+            "Name": "Lammergerier Eagle",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Accipitriformes",
+            "Family":	"Accipitridae",
+            "Genus":	"Gypaetus",
+            "Biological name": "Gypaetus barbatus",
+            "Location":"/static/images/lammergerier eagle.jpg"
+        },
+        "Sikkim Snowcock": {
+            "Name":"Sikkim Snowcock",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Galliformes",
+            "Family":	"Phasianidae",
+            "Genus":	"Tetraogallus",
+            "Biological name": "Tetraogallus tibetanus",
+            "Location":"/static/images/sikkim snowcock.jpg"
+        },
+        "Emerald Cuckoo": {
+            "Name": "Emerald Cuckoo",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Cuculiformes",
+            "Family":	"Cuculidae",
+            "Genus":	"Chrysococcyx",
+            "Biological name": "Chrysococcyx maculatus",
+            "Location":"/static/images/emerald cuckoo.jpg"
+        },
+        "Hodson's Frogmouth": {
+            "Name": "Hodson's Frogmouth",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Caprimulgiformes",
+            "Family":	"Podargidae",
+            "Genus":	"Batrachostomus",
+            "Biological Name": "Batrachostomus hodgsoni",
+            "Location":"/static/images/hodson's frogmouth.jpg"
+        },
+        "Blue beareded Bee-Eater": {
+            "Name": "Blue beareded Bee-Eater",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Coraciiformes",
+            "Family":	"Meropidae",
+            "Genus":	"Nyctyornis",
+            "Biological Name": "Nyctyornis athertoni",
+            "Location":"/static/images/Bluebereded bee-eater.jpg"
+        },
+        "Yellow backed Honeyguide": {
+            "Name": "Yellow backed Honeyguide",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Piciformes",
+            "Family":	"Indicatoridae",
+            "Genus":	"Indicator",
+            "Biological name": "Indicator xanthonotus",
+            "Location":"/static/images/Yellow backed honey guide.jpg"
+        },
+        "Fire Capped Tit": {
+            "Name": "Fire Capped Tit",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Passeriformes",
+            "Family":	"Paridae",
+            "Genus":	"Cephalopyrus",
+            "Biological name": "Cephalopyrus flammiceps",
+            "Location":"/static/images/Fire-capped Tit.jpg"
+        },
+        "Sikkim Bay-Owl": {
+            "Name":"Sikkim Bay-Owl",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Strigiformes",
+            "Family":	"Tytonidae",
+            "Genus":	"Phodilus",
+            "Biological Name": "Phodilus badius",
+            "Location":"/static/images/Sikkim Bay Owl.jpg"
+        },
+        "Imperial Pheasant": {
+            "Name": "Imperial Pheasant",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Galliformes",
+            "Family":	"Phasianidae",
+            "Genus":	"Lophura",
+            "Biological name": "Lophura imperialis",
+            "Location":"/static/images/Imperial Pheasant.jpg"
+        },
+        "Snow Partiridge": {
+            "Name": "Snow Partiridge",
+            "Kingdom":	"Animalia",
+            "Phylum":	"Chordata",
+            "Class":	"Aves",
+            "Order":	"Galliformes",
+            "Family":	"Phasianidae",
+            "Subfamily":	"Perdicinae",
+            "Genus":	"Lerwa",
+            "Biological name": "Lerwa lerwa",
+            "Location":"/static/images/Snow Partiridge.jpg"
+        }
+    }
+}
