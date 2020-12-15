@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIP - Animal Info</title>
+    <link rel="stylesheet" href="/static/styles/animal_info.css">
+</head>
+
+<body>
+    <section>
+        <div class="content">
+            <h1>Animal's Scientific Information</h1>
+            <h2>{{ animal['Name'] }}</h1>
+        </div>
+    </section>
+    <div class="body">
+        <div class="image">
+            <img src="{{ animal['Location'] }}" alt="">
+        </div>
+        <h1>{{ animal['Name'] }}</h1>
+        <h2>Scientific Classifications</h2>
+        <p>Kingdom: {{ animal['Kingdom'] }}</p>
+        <p>Phylum: {{ animal['Phylum'] }}</p>
+        <p>Class: {{ animal['Class'] }}</p>
+        <p>Order: {{ animal['Order'] }}</p>
+        <p>Family: {{ animal['Family'] }}</p>
+        <p>Genus: {{ animal['Genus'] }}</p>
+        <p>Scientific Name: <em>{{ animal['Bioloical Name'] }}</em></p>
+        <div class="links">
+            <h1>
+                <a href="/endangered-birds-and-animals">Back</a>
+            </h1>
+        </div>
+    </div>
+
+</body>
+
+</html>
