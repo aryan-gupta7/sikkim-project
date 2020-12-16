@@ -1,7 +1,9 @@
 from flask import Flask, render_template, redirect, url_for
 import json
+import os
 
 app = Flask(__name__)
+app.config['SECRET_KEY'] = os.environ['SECRET_KEY']
 
 file = open("animals.json","r")
 animals = json.load(file)
