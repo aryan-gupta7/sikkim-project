@@ -34,7 +34,6 @@ def animal_info(animal_name):
 
 @app.errorhandler(404)
 def not_found(e):
-    return redirect(url_for('main'))
-
+    return "<html>Invalid Url check the URL! Take a raft and go to <a href='https://sikkim-project.herokuapp.com/'>Home.</a></html>"
 if __name__ == "__main__":
     app.run(debug=True)
